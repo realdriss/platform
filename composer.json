@@ -6,6 +6,7 @@
         "realdriss cms",
         "realdriss platform"
     ],
+    "license": "MIT",
     "homepage": "https://realdriss.com",
     "support": {
         "issues": "https://realdriss.ticksy.com",
